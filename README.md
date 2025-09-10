@@ -1,6 +1,6 @@
 <!-- Banner moradito -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=120&section=header&text=Bienvenida%20a%20mi%20perfil%20✨&fontColor=fff&fontSize=35&fontAlign=50" alt="Banner morado">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=120&section=header&text=Bienvenid@%20a%20mi%20perfil%20✨&fontColor=fff&fontSize=35&fontAlign=50" alt="Banner morado">
 </p>
 
 # 🌷 ¡Hola! Soy Yamilet Arias
@@ -34,7 +34,7 @@ Ejemplo práctico para aprender operaciones CRUD en CodeIgniter.
 
 ---
 
-## 🌸 Un poquito más...
+## 🌷 Un poquito más...
 
 - 💻 Siempre busco crecer y aprender algo nuevo.
 - 🎶 ¡La música me inspira tanto como la programación!
