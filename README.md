@@ -22,29 +22,13 @@
 
 ---
 
-## 💫 Proyectos públicos destacados
+## 💫 Proyecto público destacado
 
 <a href="https://github.com/yamiletArias/crud_codeingniter">
   <img align="left" height="24" src="https://img.shields.io/badge/CRUD%20CodeIgniter-8e44ad?style=flat-square">
 </a>
 **CRUD CodeIgniter**  
 Ejemplo práctico para aprender operaciones CRUD en CodeIgniter.
-
-<br clear="left">
-
-<a href="https://github.com/yamiletArias/YondaMotorpark2">
-  <img align="left" height="24" src="https://img.shields.io/badge/YondaMotorpark2-9b59b6?style=flat-square">
-</a>
-**YondaMotorpark2**  
-Proyecto para la gestión de vehículos, siguiendo buenas prácticas con CodeIgniter.
-
-<br clear="left">
-
-<a href="https://github.com/yamiletArias/pruebaCodeIgniterfix">
-  <img align="left" height="24" src="https://img.shields.io/badge/Prueba%20CodeIgniter%20Fix-bd7be5?style=flat-square">
-</a>
-**Prueba CodeIgniter Fix**  
-Repositorio de pruebas y mejoras en CodeIgniter.
 
 <br clear="left">
 
