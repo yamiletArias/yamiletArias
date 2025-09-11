@@ -34,6 +34,31 @@ Ejemplo práctico para aprender operaciones CRUD en CodeIgniter.
 
 ---
 
+## 🚀 Más repositorios personales
+
+- <a href="https://github.com/yamiletArias/CRUDMVCPRUEBA"><img src="https://img.shields.io/badge/CRUDMVCPRUEBA-PHP-8e44ad?style=flat-square"></a>  
+  Proyecto CRUD en PHP con MVC.
+
+- <a href="https://github.com/yamiletArias/APPPRESTAMOS"><img src="https://img.shields.io/badge/APPPRESTAMOS-Java%20(Android%20Studio)-9b59b6?style=flat-square"></a>  
+  App móvil para préstamos, desarrollada en Android Studio.
+
+- <a href="https://github.com/yamiletArias/REST-API-PRESTAMOS"><img src="https://img.shields.io/badge/REST--API--PRESTAMOS-JavaScript-bd7be5?style=flat-square"></a>  
+  API REST para gestión de préstamos.
+
+- <a href="https://github.com/yamiletArias/CRUDVETERINARIA"><img src="https://img.shields.io/badge/CRUDVETERINARIA-EJS-8e44ad?style=flat-square"></a>  
+  CRUD veterinaria con EJS.
+
+- <a href="https://github.com/yamiletArias/WSTIENDA"><img src="https://img.shields.io/badge/WSTIENDA-PHP%20Webservice-9b59b6?style=flat-square"></a>  
+  Webservice para tienda en PHP.
+  <br>
+  <a href="https://github.com/yamiletArias/APPSTOREROPA"><img src="https://img.shields.io/badge/APPSTOREROPA-Java%20(Android%20Studio)-bd7be5?style=flat-square"></a>  
+  App móvil para la tienda, desarrollada en Android Studio.
+
+- <a href="https://github.com/yamiletArias/APPVETERINARIA"><img src="https://img.shields.io/badge/APPVETERINARIA-Java%20(Android%20Studio)-8e44ad?style=flat-square"></a>  
+  Aplicación móvil veterinaria en Android Studio.
+
+---
+
 ## 🌷 Un poquito más...
 
 - 💻 Siempre busco crecer y aprender algo nuevo.
