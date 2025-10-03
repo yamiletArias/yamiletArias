@@ -77,6 +77,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamiletArias&layout=compact&langs_count=8&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yamiletArias&show_icons=true&theme=blueberry&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=bd7be5&height=80&section=footer" alt="Banner morado footer">
 </p>
 
