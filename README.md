@@ -80,10 +80,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamiletArias&layout=compact&langs_count=8&theme=gruvbox" />
+        <img src="https://github-readme-stats.vercel.app/api?username=yamiletArias&show_icons=true&theme=blueberry&hide_border=true" height="165"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=yamiletArias&show_icons=true&theme=blueberry&hide_border=true" height="165"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamiletArias&layout=compact&langs_count=8&theme=gruvbox" />
       </td>
     </tr>
   </table>
