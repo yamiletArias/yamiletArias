@@ -8,7 +8,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Programadora-PHP%20%7C%20CodeIgniter-8e44ad?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Aprendiz%20Rápida-Adaptabilidad-9b59b6?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Hobbies-Música%20%7C%20Bajo%20%7C%20Violín-bd7be5?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Hobbies-Programar%20%7C%20Bajo%20%7C%20Violín-bd7be5?style=for-the-badge">
 </div>
 
 ---
@@ -17,24 +17,25 @@
 
 ✨ Soy **programadora** especializada en **PHP** y **CodeIgniter**.  
 ✨ Me adapto y aprendo rápido, siempre lista para nuevos desafíos.  
+✨ Me gusta la tecnología, busco innovaciones y disfruto aprender sobre nuevas herramientas.  
 ✨ Amo programar y también disfruto tocar el **bajo** y el **violín**.  
 ✨ Me gusta todo lo delicado, creativo y el color **morado**.
 
 ---
 
-## 💫 Proyecto público destacado
+## 🛠️ Tecnologías y herramientas
 
-<a href="https://github.com/yamiletArias/crud_codeingniter">
-  <img align="left" height="24" src="https://img.shields.io/badge/CRUD%20CodeIgniter-8e44ad?style=flat-square">
-</a>
-**CRUD CodeIgniter**  
-Ejemplo práctico para aprender operaciones CRUD en CodeIgniter.
-
-<br clear="left">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,java,androidstudio,git,github,vscode" />
+</p>
 
 ---
 
 ## 🚀 Más repositorios personales
+
+- <a href="https://github.com/yamiletArias/crud_codeingniter"><img src="https://img.shields.io/badge/CRUD%20CodeIgniter-8e44ad?style=flat-square"></a>  
+  **CRUD CodeIgniter**  
+  Ejemplo práctico para aprender operaciones CRUD en CodeIgniter.
 
 - <a href="https://github.com/yamiletArias/CRUDMVCPRUEBA"><img src="https://img.shields.io/badge/CRUDMVCPRUEBA-PHP-8e44ad?style=flat-square"></a>  
   Proyecto CRUD en PHP con MVC.
@@ -62,6 +63,7 @@ Ejemplo práctico para aprender operaciones CRUD en CodeIgniter.
 ## 🌷 Un poquito más...
 
 - 💻 Siempre busco crecer y aprender algo nuevo.
+- 🚀 Me gusta la tecnología y buscar innovaciones.
 - 🎶 ¡La música me inspira tanto como la programación!
 - 🟣 Mi color favorito es el **morado** (¡lo notarás por aquí!).
 
