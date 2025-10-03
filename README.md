@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=120&section=header&text=Bienvenid@%20a%20mi%20perfil%20✨&fontColor=fff&fontSize=35&fontAlign=50" alt="Banner morado">
 </p>
 
-# 🌷 ¡Hola! Soy Yamilet Arias
+# 🌷 ¡Hola! Soy Deyanira Yamilet Chacaliaza Arias
 
 <div align="center">
   <img src="https://img.shields.io/badge/Programadora-PHP%20%7C%20CodeIgniter-8e44ad?style=for-the-badge&logo=php&logoColor=white">
@@ -33,9 +33,12 @@
 
 ## 🚀 Más repositorios personales
 
-- <a href="https://github.com/yamiletArias/crud_codeingniter"><img src="https://img.shields.io/badge/CRUD%20CodeIgniter-8e44ad?style=flat-square"></a>  
-  **CRUD CodeIgniter**  
+- <a href="https://github.com/yamiletArias/crud_codeingniter"><img src="https://img.shields.io/badge/CRUD CodeIgniter-PHP-8e44ad?style=flat-square"></a>  
   Ejemplo práctico para aprender operaciones CRUD en CodeIgniter.
+
+<!-- - <a href="https://github.com/yamiletArias/crud_codeingniter"><img src="https://img.shields.io/badge/CRUD%20CodeIgniter-8e44ad?style=flat-square"></a>  
+  **CRUD CodeIgniter**  
+  Ejemplo práctico para aprender operaciones CRUD en CodeIgniter. -->
 
 - <a href="https://github.com/yamiletArias/CRUDMVCPRUEBA"><img src="https://img.shields.io/badge/CRUDMVCPRUEBA-PHP-8e44ad?style=flat-square"></a>  
   Proyecto CRUD en PHP con MVC.
