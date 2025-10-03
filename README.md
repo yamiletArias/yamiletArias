@@ -36,8 +36,8 @@
 - <a href="https://github.com/yamiletArias/crud_codeingniter"><img src="https://img.shields.io/badge/CRUD CodeIgniter-PHP-8e44ad?style=flat-square"></a>  
   Ejemplo práctico para aprender operaciones CRUD en CodeIgniter.
 
-<!-- - <a href="https://github.com/yamiletArias/crud_codeingniter"><img src="https://img.shields.io/badge/CRUD%20CodeIgniter-8e44ad?style=flat-square"></a>  
-  **CRUD CodeIgniter**  
+<!-- - <a href="https://github.com/yamiletArias/crud_codeingniter"><img src="https://img.shields.io/badge/CRUD%20CodeIgniter-8e44ad?style=flat-square"></a>
+  **CRUD CodeIgniter**
   Ejemplo práctico para aprender operaciones CRUD en CodeIgniter. -->
 
 - <a href="https://github.com/yamiletArias/CRUDMVCPRUEBA"><img src="https://img.shields.io/badge/CRUDMVCPRUEBA-PHP-8e44ad?style=flat-square"></a>  
@@ -74,9 +74,13 @@
 
 ## 📊 Estadísticas de lenguajes
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamiletArias&layout=compact&langs_count=8&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamiletArias&layout=compact&langs_count=8&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 <p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamiletArias&layout=compact&langs_count=8&theme=gruvbox" />
+  </a>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=yamiletArias&show_icons=true&theme=blueberry&hide_border=true" height="165"/>
 </p>
 
