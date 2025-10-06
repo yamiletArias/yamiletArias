@@ -5,15 +5,17 @@
 
 # 🌷 ¡Hola! Soy Deyanira Yamilet Chacaliaza Arias
 
-![Programadora PHP | CodeIgniter](https://img.shields.io/badge/Programadora-PHP%20%7C%20CodeIgniter-8e44ad?style=for-the-badge&logo=php&logoColor=white)
-![Aprendiz Rápida](https://img.shields.io/badge/Aprendiz%20Rápida-Adaptabilidad-9b59b6?style=for-the-badge)
-![Hobbies Música | Bajo | Violín](https://img.shields.io/badge/Hobbies-Música%20%7C%20Bajo%20%7C%20Violín-bd7be5?style=for-the-badge)
-
 <!-- <div align="center">
+  <img src="https://img.shields.io/badge/Programadora-PHP%20%7C%20CodeIgniter-8e44ad?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Aprendiz%20Rápida-Adaptabilidad-9b59b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hobbies-Música%20%7C%20Bajo%20%7C%20Violín-bd7be5?style=for-the-badge" />
+</div> -->
+
+<div align="center">
   <img src="https://img.shields.io/badge/Programadora-PHP%20%7C%20CodeIgniter-8e44ad?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Aprendiz%20Rápida-Adaptabilidad-9b59b6?style=for-the-badge">
   <img src="https://img.shields.io/badge/Hobbies-Programar%20%7C%20Bajo%20%7C%20Violín-bd7be5?style=for-the-badge">
-</div> -->
+</div>
 
 ---
 
